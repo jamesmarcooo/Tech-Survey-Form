@@ -89,3 +89,25 @@ label[for="comment"] {
 label[for="comment"] {
   margin-top: 30px;
 }
+
+#submit {
+  display: block;
+  width: 100%;
+  padding: 12px;
+  background: #eda31a;
+  cursor: pointer;
+  border: 0;
+  color: #1d1c1b;
+  font-size: 15px;
+}
+
+#submit:hover {
+  color: rgb(209, 108, 13);
+  background: #f8d8b6;
+}
+
+#submit:focus {
+  color: rgb(209, 108, 13);
+  background: #f8d8b6;
+  border-color: rgb(209, 108, 13);
+}
