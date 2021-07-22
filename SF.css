@@ -81,3 +81,11 @@ label[for="comment"] {
   margin-right: 15px;
   margin-bottom: 15px;
 }
+
+#comment {
+  min-height: 180px;
+}
+
+label[for="comment"] {
+  margin-top: 30px;
+}
